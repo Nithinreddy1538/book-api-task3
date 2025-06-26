@@ -55,3 +55,6 @@ app.listen(PORT, () => {
   console.log(`Server running at http://localhost:${PORT}`);
 });
 
+Update index.js to fix double app.listen
+
+
